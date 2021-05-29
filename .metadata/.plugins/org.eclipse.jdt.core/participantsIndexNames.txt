@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\00.KOSMO78\30.web\el_spring_prac_work\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\551936998.index
+\testSpring\src\main\java
+C:\00.KOSMO78\30.web\el_spring_prac_work\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1124941811.index
+\testSpring\src\main\java
+C:\00.KOSMO78\30.web\el_spring_prac_work\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3064609064.index
+\testSpring\src\main\java
